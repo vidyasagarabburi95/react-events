@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.yet-to-register-image {
+  height: 350px;
+  width: 350px;
+}
+.live-p {
+  margin-top: 10px;
+  max-width: 250px;
+}
+.register-button {
+  background-color: #0967d2;
+  width: 70%;
+  height: 30px;
+  border-radius: 6px;
+  border: 0;
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
+.registration-closed {
+  height: 350px;
+  width: 350px;
+}
+.stay-tuned {
+  max-width: 250px;
+  margin-top: 20px;
+}
+h1 {
+  margin-top: 10px;
+}
+p {
+  color: #475569;
+  font-size: 20px;
+}

@@ -1,0 +1,27 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+.button-image {
+  height: 200px;
+  width: 250px;
+}
+li {
+  list-style-type: none;
+  margin: 15px;
+}
+.name {
+  color: #f8fafc;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 5px;
+}
+.location {
+  color: #f8fafc;
+  font-size: 12px;
+  margin-top: 4px;
+}
+.active {
+  border: 5px solid #2dd4bf;
+  border-radius: 6px;
+}
